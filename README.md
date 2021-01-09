@@ -6,9 +6,9 @@ to warm up, but the things you learn will be applicable to the TypeScript develo
 
 ## Index of Files
 
-[1:24 - 6:37](https://youtu.be/DMIZ9Oto-6s?t=83) – [gotchas/](https://github.com/jyoo980/intro-to-ts/tree/master/gotchas)
-[6:37 - 10:22](https://youtu.be/DMIZ9Oto-6s?t=397) – [arrays/](https://github.com/jyoo980/intro-to-ts/tree/master/arrays)
-[10:22 - End](https://youtu.be/DMIZ9Oto-6s?t=620) – [objects/](https://github.com/jyoo980/intro-to-ts/tree/master/objects)
+* Timestamp [1:24 - 6:37](https://youtu.be/DMIZ9Oto-6s?t=83) – [gotchas/](https://github.com/jyoo980/intro-to-ts/tree/master/gotchas)
+* Timestamp [6:37 - 10:22](https://youtu.be/DMIZ9Oto-6s?t=397) – [arrays/](https://github.com/jyoo980/intro-to-ts/tree/master/arrays)
+* Timestamp [10:22 - End](https://youtu.be/DMIZ9Oto-6s?t=620) – [objects/](https://github.com/jyoo980/intro-to-ts/tree/master/objects)
 
 ## Requirements
 * [node.js](https://nodejs.org/en/)

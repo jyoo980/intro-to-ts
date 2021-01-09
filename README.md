@@ -18,3 +18,10 @@ You can run JavaScript (`.js`) files directly via node on the command line. Runn
 ```
 
 Should print out "Hello, world!" to the console.
+
+To run a TypeScript file, there's an additional step. You should first compile the `.ts` file. You
+can do this by running the following command:
+
+```sh
+> tsc some-ts-file.ts
+```

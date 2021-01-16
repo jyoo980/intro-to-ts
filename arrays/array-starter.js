@@ -18,7 +18,7 @@ console.log(`Doubling: ${nums} resulted in: ${doubleElements(nums)}`);
 // The next code doesn't appear in the video but it's still good practice
 
 function removeLessThanN(arr, n) {
-    return arr.filter(num => num > n);
+    return arr.filter(num => num >= n);
     // let doubled = [];
     // for (const element of arr) {
     //     if (element > n) {

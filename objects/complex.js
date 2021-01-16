@@ -22,7 +22,15 @@ let complexObject = {
 };
 
 function countNumbers(item) {
-    // TODO: given an object (which itself may contain other objects, return the number of values of type number
+    let count = 0;
+    if (typeof item === 'object') {
+        for (const val of Object.values(item)) {
+            count += countNumbers(val);
+        }
+    } else if (typeof item === 'number') {
+        count++;
+    }
+    return count;
 }
 
 console.log(`Complex object had: ${countNumbers(complexObject)} values of type number`);

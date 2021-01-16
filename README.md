@@ -38,4 +38,4 @@ This will emit a generated JavaScript (`.js`) file which you can run directly vi
 
 ## Solutions
 
-You should really try some of the exercises yourself, but I will be posting solutions at a later date (TBA).
+Make sure you've tried the exercises first. You can find the solutions in the [yoo/solution branch](https://github.com/jyoo980/intro-to-ts/tree/yoo/solutions)
